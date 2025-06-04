@@ -3,3 +3,4 @@ const input = require('fs').readFileSync('/dev/stdin').toString().split(' ').map
 const answer = input.reduce((a,b)=> a+b);
 
 console.log(answer)
+/*꼬마정민*/
